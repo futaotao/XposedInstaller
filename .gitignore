@@ -6,3 +6,4 @@ out/
 *.iml
 proguard/
 proguard_logs/
+.classpath
